@@ -24,7 +24,7 @@ This is the project which explores the domain of capturing users emotion via dif
 
 Run the following commands
    ```bash
-   git clone https://github.com/your-username/mood-tracker.git
+   git clone https://github.com/Deepesh22148/mood-selector-app.git
    cd mood-tracker
    npm install
    npm run start or npm start
